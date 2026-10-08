@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mf-dev-backend-2026-tpPoc", "mf-dev-backend-2026-tpPoc\mf-dev-backend-2026-tpPoc.csproj", "{F30844F0-00B9-4681-BBF9-6CD17A76415B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F30844F0-00B9-4681-BBF9-6CD17A76415B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30844F0-00B9-4681-BBF9-6CD17A76415B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30844F0-00B9-4681-BBF9-6CD17A76415B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30844F0-00B9-4681-BBF9-6CD17A76415B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
