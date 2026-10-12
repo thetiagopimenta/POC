@@ -16,8 +16,10 @@ namespace mf_dev_backend_2026_tpPoc.Models;
         public string Placa { get; set; }
         
         [Required(ErrorMessage = "É obrigatório informar o ano de fabricação!")]
+        [Display(Name = "Ano de Fabricação")]
         public int AnoFabricacao { get; set; }
         
         [Required(ErrorMessage = "É obrigatório informar o ano do modelo!")]
+        [Display(Name = "Ano do Modelo")]
         public int AnoModelo { get; set; }
     }
